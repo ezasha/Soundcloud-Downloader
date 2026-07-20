@@ -1,0 +1,61 @@
+{
+    "avatar_url": "https://i1.sndcdn.com/avatars-QV9pLY47WmQeNbOU-UZajxQ-large.jpg",
+    "city": null,
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+        {
+            "product": {
+                "id": "creator-pro-unlimited"
+            }
+        }
+    ],
+    "creator_subscription": {
+        "product": {
+            "id": "creator-pro-unlimited"
+        }
+    },
+    "description": ".˳·˖✶𓆩𓁺𓆪✶˖·˳.\nhttps://asharchives.com/artists/ezasha/",
+    "followers_count": 25,
+    "followings_count": 95,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 1118454619,
+    "kind": "user",
+    "last_modified": "2026-06-04T20:42:33Z",
+    "last_name": "",
+    "likes_count": 811,
+    "playlist_likes_count": 23,
+    "permalink": "ezasha",
+    "permalink_url": "https://soundcloud.com/ezasha",
+    "playlist_count": 4,
+    "reposts_count": null,
+    "track_count": 7,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1118454619",
+    "urn": "soundcloud:users:1118454619",
+    "username": "ezasha",
+    "verified": false,
+    "visuals": {
+        "urn": "soundcloud:users:1118454619",
+        "enabled": true,
+        "visuals": [
+            {
+                "urn": "soundcloud:visuals:267972273",
+                "entry_time": 0,
+                "visual_url": "https://i1.sndcdn.com/visuals-001118454619-ON6C3r-original.jpg"
+            }
+        ],
+        "tracking": null
+    },
+    "badges": {
+        "pro": false,
+        "creator_mid_tier": false,
+        "pro_unlimited": true,
+        "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1118454619",
+    "station_permalink": "artist-stations:1118454619",
+    "date_of_birth": null
+}

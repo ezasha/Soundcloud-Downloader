@@ -1,0 +1,2725 @@
+{
+    "collection": [
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-4KUNYLWwIyDpZD0v-FDjSbA-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 15,
+            "created_at": "2026-06-17T23:15:34Z",
+            "description": "@wakesxix prod @saig23 @lifeenjoyer04\n▄︻デ══━一",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 137199,
+            "full_duration": 137153,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2341394717,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-06-26T22:00:11Z",
+            "license": "all-rights-reserved",
+            "likes_count": 44,
+            "permalink": "sablerevamped",
+            "permalink_url": "https://soundcloud.com/valleeboreale/sablerevamped",
+            "playback_count": 542,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2341394717,
+                "urn": "soundcloud:tracks:2341394717",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 11,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Sable 1.5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @wakes @saig @lifeenjoyer",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2341394717",
+            "urn": "soundcloud:tracks:2341394717",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/GmqaR5QbCIX4_m.json",
+            "display_date": "2026-06-26T22:00:11Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2341394717/9927a48b-49a3-4cd5-a0ef-2468f9a34545/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 137199,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2341394717/c695c0de-58b1-4e9a-82a6-c7c2adf14d18/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 137199,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2341394717/a643af35-2342-4e7c-b7a2-63dba1efe13f/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 137199,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2341394717/a7e3ac76-b3ac-4ddd-a091-969139f3be37/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 137153,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2341394717/a7e3ac76-b3ac-4ddd-a091-969139f3be37/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 137153,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2341394717",
+            "station_permalink": "track-stations:2341394717",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjFjN2ExNDgxLWQ2OTItNDczNi05NWUxLTRhYzJiY2Y4YmRmYyIsImlhdCI6MTc4MzAxNzI3M30.XyJKIo9-18r45h0jhlZiJ6531j5m9HyFNU6WCLzWiyI",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-brRmq5Fzmj8Tc1Ho-Ntpqzw-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 7,
+            "created_at": "2026-03-24T02:45:15Z",
+            "description": "@videuu prod @h4blackasf",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 99790,
+            "full_duration": 99787,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2289478013,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-06-19T23:25:05Z",
+            "license": "all-rights-reserved",
+            "likes_count": 44,
+            "permalink": "dolce",
+            "permalink_url": "https://soundcloud.com/valleeboreale/dolce",
+            "playback_count": 442,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2289478013,
+                "urn": "soundcloud:tracks:2289478013",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 5,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Dolce ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@videuu @ivvys",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2289478013",
+            "urn": "soundcloud:tracks:2289478013",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/bla8lLrd4Dj8_m.json",
+            "display_date": "2026-06-19T23:25:05Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289478013/2401fd1b-9b8c-4edb-a34e-a823b875b564/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 99790,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289478013/8e638b23-403d-43a2-8961-744120f199f4/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 99790,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289478013/c802fdd4-400c-4578-8926-fa6c9a418517/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 99790,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289478013/19c441ce-fefc-4874-8fce-6b169fca835c/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 99787,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289478013/19c441ce-fefc-4874-8fce-6b169fca835c/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 99787,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2289478013",
+            "station_permalink": "track-stations:2289478013",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjdhNmI1NGIxLTVhOGMtNGQ4ZC1iMGUwLTg0N2YwMDVkZTUzNCIsImlhdCI6MTc4MzAxNzI3M30.75nJANgq8FfSwY_xeOfDwZaHXOdYz3XtWfCQJWcwuOM",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-mOQ485Bc8y6R2UjG-aBOCaw-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 8,
+            "created_at": "2026-06-03T08:16:10Z",
+            "description": "@videuu prod @cranessssss",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 73955,
+            "full_duration": 73908,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2332513910,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-06-23T16:12:56Z",
+            "license": "all-rights-reserved",
+            "likes_count": 60,
+            "permalink": "apathie",
+            "permalink_url": "https://soundcloud.com/valleeboreale/apathie",
+            "playback_count": 1168,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2332513910,
+                "urn": "soundcloud:tracks:2332513910",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 11,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Apathie ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu @cranes",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2332513910",
+            "urn": "soundcloud:tracks:2332513910",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/NWWBzvxy7bDC_m.json",
+            "display_date": "2026-06-13T00:24:24Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2332513910/fa73454b-4ef9-41f5-89da-ad6d127d6529/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 73955,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2332513910/a0d7d378-f54b-4800-bffc-cd81fd01f118/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 73955,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2332513910/fd3a8dd2-ad3b-489b-afcd-47914d21c385/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 73955,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2332513910/ef8b8f9e-fcee-4141-bd3a-82db8ed85bf8/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 73908,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2332513910/ef8b8f9e-fcee-4141-bd3a-82db8ed85bf8/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 73908,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2332513910",
+            "station_permalink": "track-stations:2332513910",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6ImFjNmUwMTliLWFmZDYtNDEyYi05NGQ3LTkxNDA0NzIxZGY3MCIsImlhdCI6MTc4MzAxNzI3M30.80SA2NGjjTT4m9S8ERV5T8SChkY1kFOMZZyC1ScDY9Y",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-ObyQ7gjwoPT9QPYd-QwxjIQ-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 11,
+            "created_at": "2026-05-03T12:13:35Z",
+            "description": "@videuu prod @leoewski @user-kisuisdivine @videuu\n\nmême si je peine à le dire\n\nouvre moi ton âme\nlaisse passer les drames\nc'est pas si deep\n\nelle veut qu'on s'aime, donne moi la raison\njtomberai pas pour tes lettres de noblesse\nc'est ce que l'on sème, faudrait que tu baisses d'un ton\njrevois ses sentiments à la baisse\n\nentre les rictus, les pleurs\nt'es une mangeuse de cœurs\njsuis dans le froid fais moi confiance\njsuis pas un menteur\nce qu'ils racontent c'est que du nonsens\ndonc leur donne pas l'heure\nj'aurai ça sur la conscience peut être jusqu'à ce que je meure\ntrop plein de tramadol, jme sens mal jcrois que jsuis fucked up\nsouvent elle fait la folle, parle aux anges jsuis comme wassup\nugly based boy ma legueu jme sens comme feldup\npar ici tout est cold elle m'a volé mon feu c'est un hold up\n\nest-ce que t'es sérieuse ? est-ce que t'es sérieuse ?\nelle fait trop de trucs dans mon dos, c'est une ange pleureuse\njpourrais soigner tes maux mais t'es trop peureuse\nc'est encore de ma faute\nelle sait que jsuis lowkey, jsuis timide\njfais tout sur la pointe des pieds\nj'avoue que des fois jme fais peur à moi même, tout le temps que je passe à t'épier\nsauts d'humeur atm jte déteste et demain jserai à tes pieds\nj'aime quand on joignait nos deux mains, il m'en fallait pas + pour l'été\n\nil m'en fallait pas + pour l'été\nok peut être que je tourne en boucle mais il m'en fallait pas + pour t'aimer\nparfois quand jreprend de ce truc j'en viens à me demander ce qu'on était\npas un jour passe sans que je prie, si seulement je pouvais lui manquer\n\nentre les rictus, les pleurs\nt'es une mangeuse de cœurs\njsuis dans le froid fais moi confiance\njsuis pas un menteur\nce qu'ils racontent c'est que du nonsens\ndonc leur donne pas l'heure\nj'aurai ça sur la conscience peut être jusqu'à ce que je meure\ntrop plein de tramadol, jme sens mal jcrois que jsuis fucked up\nsouvent elle fait la folle, parle aux anges jsuis comme wassup\nugly based boy ma legueu jme sens comme feldup\npar ici tout est cold elle m'a volé mon feu c'est un hold up\n\nouvre moi ton âme\nlaisse passer les drames\nc'est pas si deep\n\nelle veut qu'on s'aime, donne moi la raison\njtomberai pas pour tes lettres de noblesse\nc'est ce que l'on sème, faudrait que tu baisses d'un ton\njrevois ses sentiments à la baisse",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 165038,
+            "full_duration": 164992,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2313762305,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-06-05T22:01:38Z",
+            "license": "all-rights-reserved",
+            "likes_count": 67,
+            "permalink": "mangeusedecoeurs",
+            "permalink_url": "https://soundcloud.com/valleeboreale/mangeusedecoeurs",
+            "playback_count": 1749,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2313762305,
+                "urn": "soundcloud:tracks:2313762305",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 13,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Mangeuse de Cœurs ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu @leoewski @k!su",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2313762305",
+            "urn": "soundcloud:tracks:2313762305",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/rz217fN5Owm4_m.json",
+            "display_date": "2026-06-05T22:01:38Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2313762305/ef8e334f-3791-445c-9dd7-18d0a22a00b2/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 165038,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2313762305/e3a4a86f-3a52-44c4-b9fa-73599da56e0d/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 165038,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2313762305/6bf392ab-d815-4805-85ba-f9ffd581c1bf/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 165038,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2313762305/9f7abeb4-8375-4b09-9346-7b97c82965e8/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 164992,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2313762305/9f7abeb4-8375-4b09-9346-7b97c82965e8/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 164992,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2313762305",
+            "station_permalink": "track-stations:2313762305",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjQ4ZmQ4NzhmLTNlMWUtNDllMi1hZGEzLWI5YzFlYzcyZDRjMyIsImlhdCI6MTc4MzAxNzI3M30.srjd7gldRdo-P0C585ANiF0r4qzO_sZfpK2QvXkpGE0",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-v5QsKpuAlFQuvWZS-32UirQ-large.png",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 6,
+            "created_at": "2026-05-25T13:34:47Z",
+            "description": "@videuu\n\nhttps://youtu.be/_3-t5ZFbjRU",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 142126,
+            "full_duration": 142080,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2327055107,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-05-30T12:01:02Z",
+            "license": "all-rights-reserved",
+            "likes_count": 54,
+            "permalink": "fetch",
+            "permalink_url": "https://soundcloud.com/valleeboreale/fetch",
+            "playback_count": 1084,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2327055107,
+                "urn": "soundcloud:tracks:2327055107",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 10,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "FETCH ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2327055107",
+            "urn": "soundcloud:tracks:2327055107",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/09FiWeYXGSxI_m.json",
+            "display_date": "2026-05-30T12:01:01Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2327055107/9a3d8e8b-1f7d-4900-b11d-cb7d7640a990/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 142126,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2327055107/1e800355-871e-47bb-9aff-6339974d7123/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 142126,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2327055107/b0974259-4c08-43d5-a5ce-7286efbf73f4/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 142126,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2327055107/0bb84cfa-e0c3-492c-9af0-6d998b12b914/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 142080,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2327055107/0bb84cfa-e0c3-492c-9af0-6d998b12b914/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 142080,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2327055107",
+            "station_permalink": "track-stations:2327055107",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjVlYzA4M2NjLTI3ZDAtNDExMC04MzcyLWMzZDYzMmM3NzAyYiIsImlhdCI6MTc4MzAxNzI3M30.fW6bTF5TqcOru7xY--eiRStv8o8wRtUen-OFLhjvTMM",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-kRpAXcYlvHpTsQIh-2drRXQ-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 6,
+            "created_at": "2026-04-26T18:59:24Z",
+            "description": "@vlorich prod @videuu @/kxngthrty",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 111142,
+            "full_duration": 111124,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2309675861,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-05-22T22:08:04Z",
+            "license": "all-rights-reserved",
+            "likes_count": 34,
+            "permalink": "hellcat",
+            "permalink_url": "https://soundcloud.com/valleeboreale/hellcat",
+            "playback_count": 717,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2309675861,
+                "urn": "soundcloud:tracks:2309675861",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 4,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Hellcat ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @vlorich @videuu @thrty",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2309675861",
+            "urn": "soundcloud:tracks:2309675861",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/eyYfRHtTJ9A0_m.json",
+            "display_date": "2026-05-22T22:08:04Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2309675861/216fca60-fe06-4668-bd64-f0447c05a201/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 111142,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2309675861/f8dfde45-294d-40c6-80e3-e90d806e285e/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 111142,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2309675861/cbc47c03-b1ea-4859-84dc-7471234be80b/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 111142,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2309675861/80587482-8c04-4b2a-9540-f83529829f24/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 111124,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2309675861/80587482-8c04-4b2a-9540-f83529829f24/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 111124,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2309675861",
+            "station_permalink": "track-stations:2309675861",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6Ijk2ZTg2ZGVhLWNiNTctNGFjYS05M2I1LTI5NDVlZGY1ZWQwZSIsImlhdCI6MTc4MzAxNzI3M30.Amp-ryQEaUxPwoAn1vYEg4j03N35J5rxKc1IYTyFnRE",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-fXtJScpBuzdUrcoT-fQf0tA-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 15,
+            "created_at": "2026-04-23T14:49:34Z",
+            "description": "@videuu @wakesxix prod @lilflans @/tdm\n\nqu'est ce qu'on ferait pas pour un peu de fantaisie",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 102126,
+            "full_duration": 102112,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2307887468,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-05-15T22:00:34Z",
+            "license": "all-rights-reserved",
+            "likes_count": 71,
+            "permalink": "danstesyeux",
+            "permalink_url": "https://soundcloud.com/valleeboreale/danstesyeux",
+            "playback_count": 2436,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2307887468,
+                "urn": "soundcloud:tracks:2307887468",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "℗ Bv",
+                "p_line_for_display": "℗ Bv"
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 10,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Dans Tes Yeux ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu @wakes @flansie @tdm",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2307887468",
+            "urn": "soundcloud:tracks:2307887468",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/5mCwMjS6XKvK_m.json",
+            "display_date": "2026-05-15T22:00:34Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2307887468/4623a9f5-8939-486e-9dee-7cf7b0182135/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 102126,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2307887468/7a9c051a-ec7f-4be9-9e8e-1a496f57692f/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 102126,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2307887468/6dfc5a1b-6235-4f06-85e6-18ff86681934/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 102126,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2307887468/f4bc4366-fefd-4261-a5a1-8c568342c14c/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 102112,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2307887468/f4bc4366-fefd-4261-a5a1-8c568342c14c/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 102112,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2307887468",
+            "station_permalink": "track-stations:2307887468",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6ImQ4ZDI2Yjc3LTMzZWYtNDc0NS04ZWRkLWU2M2E5NDRlMTgyYSIsImlhdCI6MTc4MzAxNzI3M30.LWrVPdVdnCAmGtayqPsvY086RrZbdGSG5AtlmyVtinw",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-2tdXYBjtrfFVrmFN-LPE4ug-large.png",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 8,
+            "created_at": "2026-04-27T22:56:10Z",
+            "description": "@wakesxix prod @videuu",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 115166,
+            "full_duration": 115147,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2310429389,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-05-09T09:12:14Z",
+            "license": "all-rights-reserved",
+            "likes_count": 57,
+            "permalink": "flymeup",
+            "permalink_url": "https://soundcloud.com/valleeboreale/flymeup",
+            "playback_count": 1570,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2310429389,
+                "urn": "soundcloud:tracks:2310429389",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 9,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Fly me up ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @wakes @videuu",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2310429389",
+            "urn": "soundcloud:tracks:2310429389",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/AiFZpis0FBJK_m.json",
+            "display_date": "2026-05-09T09:12:13Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2310429389/9f7a4876-15f1-4083-8921-c6e4e22080b8/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 115166,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2310429389/12c46f87-b70f-4bdf-8ac8-7d998b8a9e1f/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 115166,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2310429389/4372abe9-92c6-4d61-931e-74ed071b632a/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 115166,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2310429389/c7078331-b672-412b-be43-7597fbea0a02/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 115147,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2310429389/c7078331-b672-412b-be43-7597fbea0a02/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 115147,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2310429389",
+            "station_permalink": "track-stations:2310429389",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjA2N2VmZGI0LTIwZjYtNDQyNC05YzczLTFkMmZiODJkNGU1YyIsImlhdCI6MTc4MzAxNzI3M30.KHycceOKs7O-EU1iIeAi6TlSJu1EA4-xRrER8Z2PQqA",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-0HVq4G21tA4Q6NZ3-FVPPiQ-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 10,
+            "created_at": "2026-04-05T02:09:09Z",
+            "description": "@wakesxix @videuu prod @cutspace",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 101318,
+            "full_duration": 101302,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2296779686,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-05-02T04:17:26Z",
+            "license": "all-rights-reserved",
+            "likes_count": 58,
+            "permalink": "bourrasque",
+            "permalink_url": "https://soundcloud.com/valleeboreale/bourrasque",
+            "playback_count": 1526,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2296779686,
+                "urn": "soundcloud:tracks:2296779686",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 9,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "BOURRASQUE ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @wakes @videuu @cutspace",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2296779686",
+            "urn": "soundcloud:tracks:2296779686",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/Zr9rHDGMgJ1C_m.json",
+            "display_date": "2026-05-02T04:17:26Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2296779686/c7ffd3fb-d8c3-4580-bb42-98351eb32f9a/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 101318,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2296779686/277bdc7f-4a6d-4a82-829b-9499c3926eb9/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 101318,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2296779686/be208a3d-30e3-43c9-a077-dc6e1db69a8b/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 101318,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2296779686/6b62e574-f977-44b2-b56c-f56d83728dde/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 101302,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2296779686/6b62e574-f977-44b2-b56c-f56d83728dde/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 101302,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2296779686",
+            "station_permalink": "track-stations:2296779686",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjE3YWEzNDU2LWFiMmYtNDYzZC05YWM3LWFlOWZiMmQwNjM1OSIsImlhdCI6MTc4MzAxNzI3M30.E-54_10lbLQeK5dV3uEcIvJo01f4uw5qrr9ViuEuVsU",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-qN1ynA1ydD0pyPyG-NC0q1A-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 16,
+            "created_at": "2026-01-22T20:14:23Z",
+            "description": "@videuu prod @yurkiez @/ezerkel\n\nRIEN NE VA PLUS !",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 72478,
+            "full_duration": 72464,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2252379125,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-06-30T00:18:03Z",
+            "license": "all-rights-reserved",
+            "likes_count": 149,
+            "permalink": "gambleshitdontbedumb",
+            "permalink_url": "https://soundcloud.com/valleeboreale/gambleshitdontbedumb",
+            "playback_count": 4954,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2252379125,
+                "urn": "soundcloud:tracks:2252379125",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "℗ #Bv",
+                "p_line_for_display": "℗ #Bv"
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 16,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "#BV WE BE GAMBLING SHI AGAIN N AGAINNN ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu @yk @ezerkel",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2252379125",
+            "urn": "soundcloud:tracks:2252379125",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/H5wDJdIigwiv_m.json",
+            "display_date": "2026-04-24T22:00:42Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252379125/be924c0d-d209-409c-92b4-945447566750/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 72478,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252379125/ffdd67ab-c0cc-45f1-b9c7-af9b21eb75b8/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 72478,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252379125/b1a8105b-308c-454f-8853-7f482db0c017/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 72478,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252379125/7b3ce08e-30ab-4764-ab4d-1391c0395540/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 72464,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252379125/7b3ce08e-30ab-4764-ab4d-1391c0395540/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 72464,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2252379125",
+            "station_permalink": "track-stations:2252379125",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6ImNkYmQ3M2M1LWRlYWYtNDA5MS04YTliLWQ4MTAyNWEzMjkwYiIsImlhdCI6MTc4MzAxNzI3M30.U2e34Oa6QBRoZUBAAK-zikJVlviK05yVhfwhGvDB8fA",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-nzAWT7mQlOyvBkll-lpDUFQ-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 9,
+            "created_at": "2026-03-02T05:17:33Z",
+            "description": "@videuu prod @superswagcr33per\n\nil en faudra + si tu veux me sauver de ma névrose\nle soir jprends ma medecine mais jrespecte pas les doses\nles larmes ont coulées pendant que je t'ecrivais des proses\nest ce que c'est le destin? ou juste les tourments de la rose\net malgré tout j'ai changé je l'ai jamais voulu \nc'est la sorcière qui m'a pris entre ses doigts crochus\nshhh\nmotus bouche cousue\ntu t'es bien foutue de moi \n\net on grandit pas comme les autres mais je garde la foi\nj'veux faire disparaitre ces souvenirs, une peau douce comme de la soie \nj'sens mon corps s'évaporer quand mon âme se noie \nj'ai beau faire tous les efforts du monde j'passe pas au dessus de ça\net t'oses me dire que c'est qu'un ami \nlà c'est pas ce que jvois\nau final t’es comme mes oxys\nj'peux pas m'passer de toi\nj'te voyais cm la plus belle \nnow cm une fille de joie",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 93704,
+            "full_duration": 93701,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2275896644,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-05-14T15:54:54Z",
+            "license": "all-rights-reserved",
+            "likes_count": 90,
+            "permalink": "les-tourments-de-la-rose",
+            "permalink_url": "https://soundcloud.com/valleeboreale/les-tourments-de-la-rose",
+            "playback_count": 3857,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2275896644,
+                "urn": "soundcloud:tracks:2275896644",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 7,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Motus &Bouche Cousue ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu @34n",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2275896644",
+            "urn": "soundcloud:tracks:2275896644",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/c7itoQjLxaWb_m.json",
+            "display_date": "2026-04-17T22:04:52Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2275896644/dd0dc532-0c17-4c81-8c97-ebc0d9f50a54/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 93704,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2275896644/b9c7f3b3-b0fd-41bd-8ec2-01bd96932061/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 93704,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2275896644/d853b376-8494-4b80-a5fe-6f461da02cb9/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 93704,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2275896644/26220d54-9873-4415-a6e3-5013e55b124c/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 93701,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2275896644/26220d54-9873-4415-a6e3-5013e55b124c/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 93701,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2275896644",
+            "station_permalink": "track-stations:2275896644",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjkyZDM0YjdlLWI3ZDgtNDVkNS1iNWQ0LWVjYTJhYjFjZDk4MSIsImlhdCI6MTc4MzAxNzI3M30.WKXwtLFBn8QMt_cPTDm0izKkxR5jrRch40f0n2lxGRs",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-uxs2fVzPjrecSN2T-BAzQQw-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 9,
+            "created_at": "2026-03-23T19:01:00Z",
+            "description": "@videuu prod @reealcesar\n\njsuis pas le vrai moi\nle plus dur c'est d'affronter la pluie\nok jpeux pas perdre mes appuis\nelle c'est un ange aux ailes noires\nj'aurais bien aimé mais y'a pas de quoi s'émouvoir\nc'était la sorcière j'avais sous estimé ses pouvoirs\ncertes t'es jolie mais tu vaux pas mes medocs\njme souviens encore de quand tu m'as attrapé\njpeux tout laisser passer mais partage moi tes torts\ndans le creux de ses yeux tous verts jme suis laissé happer\n\npeu importe si t'es mal\nça m'empêche pas de te haïr\ncette douleur dans l'abdomen me fait des siennes\nelle veut pas partir\nje t'ai revue dans le mirage\net cette fois tu m'as tout dit\nsur toi j'écris des pages et des pages\njcompte plus les lignes\nj'ai accorde mon sang à la couleur de tes habits\nle temps passe jmen veux à mort\nj'ai même pas su être un ami\npeu importe si t'es mal\nça m'empêche pas de te haïr\nc'est pas des trucs que jfais a jeun\nj'ai l'impression de me salir",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 94386,
+            "full_duration": 94380,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2289249578,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-04-25T13:01:26Z",
+            "license": "all-rights-reserved",
+            "likes_count": 86,
+            "permalink": "accorde",
+            "permalink_url": "https://soundcloud.com/valleeboreale/accorde",
+            "playback_count": 2581,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2289249578,
+                "urn": "soundcloud:tracks:2289249578",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 10,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "accorde‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@videuu @cesar",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2289249578",
+            "urn": "soundcloud:tracks:2289249578",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/N5cUoOkrOdN1_m.json",
+            "display_date": "2026-04-07T22:25:08Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289249578/23a98607-a75a-4c94-a903-72ae5e2652d1/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 94386,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289249578/07ec5b72-a4e3-42c8-a7a7-a9d56b5318c5/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 94386,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289249578/07806d47-b5e3-49d7-9687-497d2606913c/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 94386,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289249578/a7a77cea-5aac-469a-a37b-295acf606ab7/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 94380,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2289249578/a7a77cea-5aac-469a-a37b-295acf606ab7/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 94380,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2289249578",
+            "station_permalink": "track-stations:2289249578",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjQwYzljNzI0LWYxZTAtNDVkMS05YTdjLWEwNWYzMDM3ZWE4NSIsImlhdCI6MTc4MzAxNzI3M30.iKkpu2RoPXx94rjiTr1IsM3B65rQ_odBi9ZnZNWt5Zw",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-uZyRWneaASZLpU3D-FF8zlQ-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 12,
+            "created_at": "2026-01-22T08:27:08Z",
+            "description": "https://soundcloud.com/videuu/eloges\n\net si t'as pris mon cœur, pourquoi jpeux pas le sentir?\nj'savais que c'était moche mais j'ai pas osé m'enfuir \nça me fait encore mal, j'y repense ces temps-ci\nce que j'ai vu c'est pire que la mort donc ne me parle pas d'impossible\net smr jme sens vide c'était déjà comme ça l'an passé \nle temps passe mais la douleur ne veut pas s'effacer \nperdu des gens, faut avancer \njme voyais juste mort dans un fossé \npeu importe a qui tu parles j'ai plus de fric que lui\nj'ai plus de cœur que lui \nne me laisse pas seul je t'en prie \nj'reprends de ce truc pour m'assommer\nj'supporte plus d'être en vie\nj'sais que c'est trop dur a endosser, j'entends tout ce que tu me dis\npar pitié ne me laisse pas dans le flou et juste dis moi\ndis moi oui\nou dis moi pourquoi \ndis moi oui \nou dis moi pourquoi \ndis moi oui\nou dis moi pourquoi \njfais tous ces efforts \nsi c'est dans le vide\n\nelle était douce comme une rosée d'été mais\njveux pas m'ouvrir à des émotions entassées  \net je t'écris des éloges sur une feuille que jvais froisser",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 88341,
+            "full_duration": 88346,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2251904384,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-04-03T22:04:41Z",
+            "license": "all-rights-reserved",
+            "likes_count": 66,
+            "permalink": "mes-eloges-muettes",
+            "permalink_url": "https://soundcloud.com/valleeboreale/mes-eloges-muettes",
+            "playback_count": 3205,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2251904384,
+                "urn": "soundcloud:tracks:2251904384",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 7,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "mes eloges muettes (og pitch) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ @videuu",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2251904384",
+            "urn": "soundcloud:tracks:2251904384",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/yQGHPXpdlel4_m.json",
+            "display_date": "2026-04-03T22:04:41Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2251904384/5a38cd14-b565-4d28-8c1a-e77aae6a45d9/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 88341,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2251904384/e482fb00-7d95-468c-b67f-4f121557ffda/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 88341,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2251904384/90d19744-3c55-4535-87dd-e5d526194205/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 88341,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2251904384/100a791f-7017-4274-a21d-b48a5882d1ac/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 88346,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2251904384/100a791f-7017-4274-a21d-b48a5882d1ac/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 88346,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2251904384",
+            "station_permalink": "track-stations:2251904384",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjJiMGYwZjAyLWIyZWUtNGVhOC1hNTAwLTIzMTdhMmUyZDZkMSIsImlhdCI6MTc4MzAxNzI3M30.3x2hneuPTF_1wumPxBaBlZqBc1ycH3Ncko_QkaH_tW4",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-kACc2cnBA95nrBym-ESzJtQ-large.png",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 10,
+            "created_at": "2026-03-18T21:08:12Z",
+            "description": "@wakesxix prod @reealcesar\n\nj'ai vu toutes les couleurs\ns'entasser près des mots qui ne s'entendent pas\ntoutes les douleurs\ns'élancer comme les maux qui m'en rendent pale\n\nà croire que c'était pas possible\nj'ai cherché mon chemin jss tombé sur des raccourcis  \nau fond jsais pas\nsi toi aussi\nt'entends le vent qui parle\nles gens qui partent\nles chants  d'angoisse\nles voix qui s'adoucissent\n\nj'ai assez peur\npourquoi ces pleurs?\ndis moi que c'est vrai\nelles passent les heures\nfaut que l'acier pleuve\net que j'accélère\n\nnos visages tristes \nmes yeux qui saignent\nles tiens qui se ferment\n\ncelui que j'étais je veux qu'il sache qu'il s'arrêtera jamais\nil ne s'arrêtera jamais\nil ne s'arrêtera jamais\njamais\nil ne s'arrêtera jamais\n\nil ne s'arrêtera jamais",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 79800,
+            "full_duration": 79804,
+            "embeddable_by": "all",
+            "genre": "Alternative Rock",
+            "has_downloads_left": false,
+            "id": 2286303170,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-04-25T12:59:53Z",
+            "license": "all-rights-reserved",
+            "likes_count": 69,
+            "permalink": "couleurs",
+            "permalink_url": "https://soundcloud.com/valleeboreale/couleurs",
+            "playback_count": 2268,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2286303170,
+                "urn": "soundcloud:tracks:2286303170",
+                "artist": "#Bv",
+                "explicit": false
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 9,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Couleurs ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@wakes @cesar",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2286303170",
+            "urn": "soundcloud:tracks:2286303170",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/qFrMq9HQejMS_m.json",
+            "display_date": "2026-03-24T23:00:13Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2286303170/ff93cd85-c28a-42a0-9346-f185c3275a8a/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 79800,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2286303170/facb4abb-0b2f-4b37-bc3d-abb11a33cb30/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 79800,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2286303170/d5639c9d-0795-4aea-ad8e-4d356ded0e55/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 79800,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2286303170/2cc38331-66e6-47be-bed0-c9652add69e5/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 79804,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2286303170/2cc38331-66e6-47be-bed0-c9652add69e5/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 79804,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2286303170",
+            "station_permalink": "track-stations:2286303170",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjRhZTgyNzc5LTgwMzYtNGZiMC05YmMxLTBmYTk3NzFmMmQ1MiIsImlhdCI6MTc4MzAxNzI3M30.ko0jnbEft_uAPVKVqHg9kLmHbXPINnQDrpqGgt8Op9M",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-LzRib27Zk2s4OGbi-5kHu6Q-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 11,
+            "created_at": "2026-01-23T02:41:28Z",
+            "description": "@videuu prod @lb66 covert art @/hrkart @palaceofpity\n\nMoi je suis vide, dis-moi qui es-tu ?\nFuck j'suis fatigué j'pourrai plus cacher mon inquiétude\nElle veut me piéger de par son attitude\nPosté dans le noir sous tramadol rien qu'je titube\nFaut que je m'allume encore plus haut j'veux voir Lakitu\nTalk shit sur le gang on a des lames qui tuent\nQuand je lui ai dit que c'était fini elle s'est tue\nArrête avec tes airs hautains bby je sais tout\nAvec la culasse j'écrase ses phalanges\nDes fois je repense à avant\nElle apprend l'amour dans les livres\nCheveux noirs yeux verts elle ressemble à un ange\nLà j'suis pris dans l'torrent j'arrive pas à faire le vide\nJ'peux pas feel tout ça bby c'est étrange\nOn s'est perdu dans le vent\nPris par les sentiments c'est triste\nAu final j'peux pas care fais ce qui t'arrange\nJ'peux plus suivre la danse cherche pas mon cœur je sais qu'il a pourri\nCe que je fais c'est éliminatoire\nC'est pas vraiment ce que je veux mais il faut que tu partes\nEt j'y pense jusqu'à tard\nJusqu'à ce que j'en vienne à questionner ma foi\nOn s'était dit que c'était la dernière fois\nMaintenant tout ce que tu dis sonne comme une farce\nTellement haut j'arrive même plus à marcher\nJ'en ai assez\nPeu importe où je vais : c'est pas ma place",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 110516,
+            "full_duration": 110498,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2252564744,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-04-25T12:59:39Z",
+            "license": "all-rights-reserved",
+            "likes_count": 96,
+            "permalink": "torrent",
+            "permalink_url": "https://soundcloud.com/valleeboreale/torrent",
+            "playback_count": 3324,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2252564744,
+                "urn": "soundcloud:tracks:2252564744",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 12,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Torrent[...] ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@videuu @lb66",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2252564744",
+            "urn": "soundcloud:tracks:2252564744",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/1NGM3MFAXImB_m.json",
+            "display_date": "2026-03-12T23:00:31Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252564744/a31f7a5e-1652-4226-ba4d-f913ab1eb6a6/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 110516,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252564744/96d48ea4-0df6-4099-b1b1-410a90ba05e4/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 110516,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252564744/d835e264-922a-48ee-9466-afe9f92190f3/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 110516,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252564744/44aa3a22-bf53-4274-afa6-156f6a06a382/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 110498,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252564744/44aa3a22-bf53-4274-afa6-156f6a06a382/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 110498,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2252564744",
+            "station_permalink": "track-stations:2252564744",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjQxNGMwZmRjLTA0ODUtNDc1MC05NjA3LWY2ODM5NWViZjA1NCIsImlhdCI6MTc4MzAxNzI3M30.GY-aQY8LhsvELD-8TU1sF9u7mUXDHkz4_LjPh69568I",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-PRAvPLUzsVXKolfx-e8ryBA-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 4,
+            "created_at": "2026-01-23T02:10:31Z",
+            "description": "@berry_9 prod @aresdenx\n\nbonne année n****  lève ton verre up \nbonne année donc on pop la bottle \nshout out tous mes bros tous mes brothers \nceux qui sont en bas ou sur l’corner \nyeah j’suis un young n**** béni donc j’ai plus peur \nj’emmerde le diable yea yea c’est mon seul ennemi\nj’veux pas d’gosses maintenant donc j’vai mettre le condom \nelle jump sur moi comme boing boing \nboing boing \nla calle elle monte tout doucement mais c’est la vie \nj’sais qu’ça durera longtemps donc j’nous souhaite une longue vie",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 72131,
+            "full_duration": 72124,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 2252555006,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-04-25T13:00:02Z",
+            "license": "all-rights-reserved",
+            "likes_count": 42,
+            "permalink": "ynb-aresden",
+            "permalink_url": "https://soundcloud.com/valleeboreale/ynb-aresden",
+            "playback_count": 1221,
+            "public": true,
+            "publisher_metadata": {
+                "id": 2252555006,
+                "urn": "soundcloud:tracks:2252555006",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "℗ Boreal Valley",
+                "p_line_for_display": "℗ Boreal Valley"
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 7,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "YNB ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@1hunnaberry @aresden #SeriousBaby #LV",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2252555006",
+            "urn": "soundcloud:tracks:2252555006",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/LOc6pDGUG97r_m.json",
+            "display_date": "2026-02-26T23:00:52Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252555006/1e733c97-ca6e-4fa9-a6af-fe4521cb6f2c/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 72131,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252555006/56af19c4-0bab-4e5f-b5db-e6e3d7e53c55/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 72131,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252555006/65757223-b3a6-4674-9801-a480bec6ec28/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 72131,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252555006/a631ed2c-ed5b-4501-9f63-5718658c7d45/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 72124,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2252555006/a631ed2c-ed5b-4501-9f63-5718658c7d45/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 72124,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:2252555006",
+            "station_permalink": "track-stations:2252555006",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjI1YTljYzk2LTVjMjgtNDZlZC1iNmFiLWZjNWE4ODc0NmZmZSIsImlhdCI6MTc4MzAxNzI3M30.94dDVIV__HaqjXilZnkjgPMYFKz4w6BfOULqvP6mdzE",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-7Jhx2kiHqrvVw5JA-zDnKdA-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 9,
+            "created_at": "2024-01-17T22:26:01Z",
+            "description": "@wakesxix prod @/qngel\n\n*ENDLESS SOLDIER*\n\nretrouve moi prends mon coeur avec toi\nj'ai passé des années à l'écart\nen priant pour que tu m'oublies pas\noh nan fallait voir mon état\nj'ai mal au crâne jfais des rêves où je l'éclate\nj'ai déjà du sang qui coule de mon visage\n\njme sens invisible\njferme les yeux tu mrends visite\ntu m'as dit \"prends moi la main\"\net on s'en va loin d'ici\njvois tout j'anticipe\nmeme si c'était risky\nça fait des mois qui spasse rien\nest-ce que tu reçois mes missives?\n\nlaisse moi, blesse moi \nmais me déteste pas\npeu d'espoir, je la laisse croire\nqd jlui dit \"reste là\"\njfuis le destin, stressed out\nlet ur dress down\npas 13 fins, un bain de sang\nbby baisse toi",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 72523,
+            "full_duration": 72516,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 1720310826,
+            "kind": "track",
+            "label_name": null,
+            "last_modified": "2026-05-04T12:10:12Z",
+            "license": "all-rights-reserved",
+            "likes_count": 91,
+            "permalink": "rose",
+            "permalink_url": "https://soundcloud.com/valleeboreale/rose",
+            "playback_count": 3581,
+            "public": true,
+            "publisher_metadata": {
+                "id": 1720310826,
+                "urn": "soundcloud:tracks:1720310826",
+                "artist": "#Bv",
+                "contains_music": true
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 15,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Rose ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@wakes @qngel",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1720310826",
+            "urn": "soundcloud:tracks:1720310826",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/NC0qEg0YjKxC_m.json",
+            "display_date": "2026-02-21T17:00:02Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720310826/c3bf967d-d4c0-49f3-baec-7239b4fa06c0/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 72523,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720310826/4f7a057c-6f99-4643-85af-4bd829bce453/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 72523,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720310826/f46b5edd-edfd-47d9-a954-010305ce554d/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 72523,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720310826/3dfbb48d-2381-4a44-ae2b-8f7a07721579/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 72516,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720310826/3dfbb48d-2381-4a44-ae2b-8f7a07721579/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 72516,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:1720310826",
+            "station_permalink": "track-stations:1720310826",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6Ijc3OTVlNDA5LTE4YzQtNGI5Zi1hZGQ4LTQyOGRlYzEwYmRiZSIsImlhdCI6MTc4MzAxNzI3M30.blPVfDVO4NSGAYt8SAie55f8ygV-vyCo7SNc4WD_1ow",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-z12a12Qzo5tPegrd-JH3EyA-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 9,
+            "created_at": "2024-01-17T22:22:54Z",
+            "description": "@videuu prod @morecalcium333 cover art @palaceofpity\n\njdépense ce frique smr c'est délirant\njperds la notion des choses\njveux plus rien ressentir c'est embarrassant\noblige jaugmente la dose\nelle fait que dmentir inintéressante\nm'a dit aime moi si tu l'oses\njtaime pr le pire je sais qu'c'est stressant\nDieu ne m'accordera pas de pause\n\nperdu dans lnoir jme vois au bord dla falaise\nça m'a fait du mal mais c'est ce qu'il fallait faire\nelle m'a pris pr un con, c'est dans mes rêves qu'elle apparait\net jressens plus d'emotions quand ma langue touche son palais\ndis moi qutu m'aime a mourir j'aime beaucoup quand c'est cliché\njsais qutu t'forçais a sourire tes sentiments sont figés\nme parle pas dton coeur, dtes états d'âme, j'en ai vu assez\njvoulais ramener une arme au lycée\nc'est plus la peine\n\njdépense ce frique smr c'est délirant\njperds la notion des choses\njveux plus rien ressentir c'est embarrassant\noblige jaugmente la dose\nelle fait que dmentir inintéressante\nm'a dit aime moi si tu l'oses\njtaime pr le pire je sais qu'c'est stressant\nDieu ne m'accordera pas de pause\n\njs sous percs jai envie dbéger\net ça recommence chaque année jme perds\nc'est cette mélancolie, une ode à l'hiver",
+            "downloadable": false,
+            "download_count": 1,
+            "duration": 101991,
+            "full_duration": 101982,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 1720309392,
+            "kind": "track",
+            "label_name": "",
+            "last_modified": "2026-04-25T12:59:26Z",
+            "license": "all-rights-reserved",
+            "likes_count": 79,
+            "permalink": "winter24",
+            "permalink_url": "https://soundcloud.com/valleeboreale/winter24",
+            "playback_count": 2971,
+            "public": true,
+            "publisher_metadata": {
+                "id": 1720309392,
+                "urn": "soundcloud:tracks:1720309392",
+                "artist": "#Bv",
+                "publisher": "",
+                "explicit": false,
+                "p_line": "",
+                "p_line_for_display": "℗ "
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 11,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "Une Ode à l'Hiver ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@videuu @morecalcium",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1720309392",
+            "urn": "soundcloud:tracks:1720309392",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/AgnQKM00Zh0S_m.json",
+            "display_date": "2026-02-10T23:00:39Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720309392/83614994-955a-4b5c-8c8e-d39ec88f0c55/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 101991,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720309392/7f6cdeb5-d539-4707-b8cf-abc8fd968f9a/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 101991,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720309392/e57b3dad-0915-4db8-bf1f-d12a0a3870be/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 101991,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720309392/e93cbcfb-8231-4b65-ae8d-bb4261db6f28/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 101982,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1720309392/e93cbcfb-8231-4b65-ae8d-bb4261db6f28/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 101982,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:1720309392",
+            "station_permalink": "track-stations:1720309392",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6IjU1ZDM2ZTQxLTE2ZGItNDhiNC1iNDNjLWMyMjUyNzcxMzUyZCIsImlhdCI6MTc4MzAxNzI3M30.x7In6j9Er2W_FJhqTYiWQ-pssNtBryYrycv4lMSo0qw",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        },
+        {
+            "artwork_url": "https://i1.sndcdn.com/artworks-RSvAy4y4KdmauVEn-Ofz0xQ-large.jpg",
+            "caption": null,
+            "commentable": true,
+            "comment_count": 13,
+            "created_at": "2024-10-10T11:33:31Z",
+            "description": "@videuu prod @tdundere cover @palaceofpity\nthe bass pluck grim reaper",
+            "downloadable": false,
+            "download_count": 0,
+            "duration": 139844,
+            "full_duration": 139833,
+            "embeddable_by": "all",
+            "genre": "",
+            "has_downloads_left": false,
+            "id": 1932336965,
+            "kind": "track",
+            "label_name": null,
+            "last_modified": "2026-04-25T13:00:23Z",
+            "license": "all-rights-reserved",
+            "likes_count": 152,
+            "permalink": "ceo",
+            "permalink_url": "https://soundcloud.com/valleeboreale/ceo",
+            "playback_count": 6821,
+            "public": true,
+            "publisher_metadata": {
+                "id": 1932336965,
+                "urn": "soundcloud:tracks:1932336965",
+                "artist": "#Bv",
+                "contains_music": true
+            },
+            "purchase_title": null,
+            "purchase_url": null,
+            "release_date": null,
+            "reposts_count": 15,
+            "secret_token": null,
+            "sharing": "public",
+            "state": "finished",
+            "streamable": true,
+            "tag_list": "",
+            "title": "CEO ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎@videuu @Tun",
+            "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1932336965",
+            "urn": "soundcloud:tracks:1932336965",
+            "user_id": 1305109002,
+            "visuals": null,
+            "waveform_url": "https://wave.sndcdn.com/ZuzK6YqZQoEe_m.json",
+            "display_date": "2024-11-03T23:10:43Z",
+            "media": {
+                "transcodings": [
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1932336965/ce1188d3-2582-468f-a416-094e82b99b97/stream/hls",
+                        "preset": "aac_160k",
+                        "duration": 139844,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1932336965/4eef7ace-80e8-460b-8eaa-0ada6734ca29/stream/hls",
+                        "preset": "aac_96k",
+                        "duration": 139844,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+                        },
+                        "quality": "lq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1932336965/c07e6bb5-623e-4c0c-afb5-728f0b74c9cd/stream/hls",
+                        "preset": "abr_sq",
+                        "duration": 139844,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpegurl"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": false
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1932336965/e6d2a237-391f-4a7d-b4b4-e33d0bfa500c/stream/hls",
+                        "preset": "mp3_1_0",
+                        "duration": 139833,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "hls",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    },
+                    {
+                        "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1932336965/e6d2a237-391f-4a7d-b4b4-e33d0bfa500c/stream/progressive",
+                        "preset": "mp3_1_0",
+                        "duration": 139833,
+                        "snipped": false,
+                        "format": {
+                            "protocol": "progressive",
+                            "mime_type": "audio/mpeg"
+                        },
+                        "quality": "sq",
+                        "is_legacy_transcoding": true
+                    }
+                ]
+            },
+            "station_urn": "soundcloud:system-playlists:track-stations:1932336965",
+            "station_permalink": "track-stations:1932336965",
+            "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJGUiIsInN1YiI6IiIsInJpZCI6ImE1ZGQ2YThiLTMxYjgtNGRiNi04ZjEzLTQzZmViZjMzZDFlNSIsImlhdCI6MTc4MzAxNzI3M30.J_eC7vlbFI1uxIzYRniVpaKYeCnzTvm-cW9nY86JFTE",
+            "monetization_model": "BLACKBOX",
+            "policy": "MONETIZE",
+            "user": {
+                "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+                "first_name": "",
+                "followers_count": 139,
+                "full_name": "",
+                "id": 1305109002,
+                "kind": "user",
+                "last_modified": "2026-06-02T16:29:37Z",
+                "last_name": "",
+                "permalink": "valleeboreale",
+                "permalink_url": "https://soundcloud.com/valleeboreale",
+                "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1305109002",
+                "urn": "soundcloud:users:1305109002",
+                "username": "#Bv",
+                "verified": false,
+                "city": "Boreal Valley",
+                "country_code": null,
+                "badges": {
+                    "pro": false,
+                    "creator_mid_tier": false,
+                    "pro_unlimited": false,
+                    "verified": false
+                },
+                "station_urn": "soundcloud:system-playlists:artist-stations:1305109002",
+                "station_permalink": "artist-stations:1305109002"
+            }
+        }
+    ],
+    "next_href": "https://api-v2.soundcloud.com/users/1305109002/tracks?offset=2024-11-03T23%3A10%3A43.000Z%2Ctracks%2C00000000001932336965&limit=50",
+    "query_urn": null
+}
